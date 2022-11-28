@@ -1,4 +1,17 @@
-[{
-  "username": "test",
-  "password": "testPassword"
-}]
+[
+  {
+    "username": "test",
+    "password": "testPassword",
+    "role": "admin",
+  },
+   {
+    "username": "test2",
+    "password": "testPassword2",
+    "role": "admin",
+  },
+   {
+    "username": "test3",
+    "password": "testPassword3",
+    "role": "public"
+  },
+]
